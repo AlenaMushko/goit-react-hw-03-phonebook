@@ -9,8 +9,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.2;
-  color: #fa4711;
+  color: #060d2d;
   font-size: 24px;
+  background-color: #c9d6ff;
 }
 
 code {
@@ -35,9 +36,9 @@ ol {
 }
 
 button {
-  background-color: #4BA739;
+  background-color:#0a249b;
   border: none;
-  color: white;
+  color: #ffffff;
   padding: 8px 16px;
   text-align: center;
   text-decoration: none;
